@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Egg Gang Official</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #f0f0f0; padding: 50px; }
+        h1 { color: #333; }
+        .egg { font-size: 100px; }
+    </style>
+</head>
+<body>
+    <div class="egg">🥚</div>
+    <h1>Welcome to the Egg Gang</h1>
+    <p>This website is currently under construction!</p>
+</body>
+</html>
